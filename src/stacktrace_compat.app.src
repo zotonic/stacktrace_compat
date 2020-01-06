@@ -1,6 +1,6 @@
 {application, stacktrace_compat,
  [{description, ":get_stacktrace() compatibility in OTP 21+"},
-  {vsn, "git"},
+  {vsn, "1.1.1"},
   {registered, []},
   {applications,
    [kernel,
